@@ -7,6 +7,8 @@ Things you may want to cover:
 
 Editing something on the test branch
 
+adding stuff
+
 * Ruby version
 
 * System dependencies
